@@ -1,3 +1,2 @@
-# npjGenomicMedicine_2023    
-This repository contains the codes used in an article, [Article info].
-Detailed methods are available in the article.
+# CDMVSeq_analysis   
+This repository contains the codes used for the CDMVSeq analysis.
